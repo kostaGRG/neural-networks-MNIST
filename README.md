@@ -1,7 +1,7 @@
 # Neural Networks: MNIST Dataset
 ## Contributors
 1. Full name: Konstantinos Gerogiannis  
-   Email: kostas.gerogiannis04@gmail.com
+   Email: kostas.gerogiannis04@gmail.com  
    Github: https://github.com/kostaGRG
 
 ## Intro 
